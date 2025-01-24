@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BetterBasket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BetterBasket\ here.\r\n\ \r\n\ @author\ \ Your\ Name\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ sortBasketByProductNumber()
+comment1.text=\r\n\ Sorts\ the\ items\ in\ the\ basket\ in\ ascending\ order\r\n\ based\ on\ their\ product\ numbers.\r\n
+comment2.params=
+comment2.target=void\ mergeDuplicateProducts()
+numComments=3

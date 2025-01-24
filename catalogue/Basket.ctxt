@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Basket
+comment0.text=\r\n\ A\ collection\ of\ products,\r\n\ used\ to\ record\ the\ products\ that\ are\ to\ be\ wished\ to\ be\ purchased.\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 2.2\r\n\r\n
+comment1.params=
+comment1.target=void\ sortBasketByProductNumber()
+comment1.text=\r\n\ Sorts\ the\ items\ in\ the\ basket\ in\ ascending\ order\r\n\ based\ on\ their\ product\ numbers.\r\n
+comment2.params=
+comment2.target=void\ mergeDuplicateProducts()
+comment3.params=
+comment3.target=Basket()
+comment3.text=\r\n\ Constructor\ for\ a\ basket\ which\ is\r\n\ \ used\ to\ represent\ a\ customer\ order/\ wish\ list\r\n
+comment4.params=anOrderNum
+comment4.target=void\ setOrderNum(int)
+comment4.text=\r\n\ Set\ the\ customers\ unique\ order\ number\r\n\ Valid\ order\ Numbers\ 1\ ..\ N\r\n\ @param\ anOrderNum\ A\ unique\ order\ number\r\n
+comment5.params=
+comment5.target=int\ getOrderNum()
+comment5.text=\r\n\ Returns\ the\ customers\ unique\ order\ number\r\n\ @return\ the\ customers\ order\ number\r\n
+comment6.params=pr
+comment6.target=boolean\ add(Product)
+comment6.text=\r\n\ Add\ a\ product\ to\ the\ Basket.\r\n\ Product\ is\ appended\ to\ the\ end\ of\ the\ existing\ products\r\n\ in\ the\ basket.\r\n\ @param\ pr\ A\ product\ to\ be\ added\ to\ the\ basket\r\n\ @return\ true\ if\ successfully\ adds\ the\ product\r\n
+comment7.params=
+comment7.target=boolean\ undoAdd()
+comment7.text=\r\n\ Undo\ the\ last\ added\ product\ to\ the\ Basket.\r\n\ Removes\ the\ most\ recently\ added\ product\ if\ there\ is\ any.\r\n\ @return\ true\ if\ undo\ was\ successful,\ false\ if\ there\ is\ nothing\ to\ undo.\r\n
+comment8.params=
+comment8.target=java.lang.String\ getDetails()
+comment8.text=\r\n\ Returns\ a\ description\ of\ the\ products\ in\ the\ basket\ suitable\ for\ printing.\r\n\ @return\ a\ string\ description\ of\ the\ basket\ products\r\n
+numComments=9
