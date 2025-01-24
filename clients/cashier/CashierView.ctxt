@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CashierView
+comment0.text=\r\n\ View\ of\ the\ model\ \r\n
+comment1.params=rpc\ mf\ x\ y
+comment1.target=CashierView(javax.swing.RootPaneContainer,\ middle.MiddleFactory,\ int,\ int)
+comment1.text=\r\n\ Construct\ the\ view\r\n\ @param\ rpc\ \ \ Window\ in\ which\ to\ construct\r\n\ @param\ mf\ \ \ \ Factor\ to\ deliver\ order\ and\ stock\ objects\r\n\ @param\ x\ \ \ \ \ x-coordinate\ of\ position\ of\ window\ on\ screen\ \r\n\ @param\ y\ \ \ \ \ y-coordinate\ of\ position\ of\ window\ on\ screen\ \ \r\n
+comment2.params=c
+comment2.target=void\ setController(CashierController)
+comment2.text=\r\n\ The\ controller\ object,\ used\ so\ that\ an\ interaction\ can\ be\ passed\ to\ the\ controller\r\n\ @param\ c\ \ \ The\ controller\r\n
+comment3.params=modelC\ arg
+comment3.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment3.text=\r\n\ Update\ the\ view\r\n\ @param\ modelC\ \ \ The\ observed\ model\r\n\ @param\ arg\ \ \ \ \ \ Specific\ args\ \r\n
+numComments=4

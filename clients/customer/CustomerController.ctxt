@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CustomerController
+comment0.text=\r\n\ The\ Customer\ Controller\r\n
+comment1.params=model\ view
+comment1.target=CustomerController(CustomerModel,\ CustomerView)
+comment1.text=\r\n\ Constructor\r\n\ @param\ model\ The\ model\ \r\n\ @param\ view\ \ The\ view\ from\ which\ the\ interaction\ came\r\n
+comment2.params=pn
+comment2.target=void\ doCheck(java.lang.String)
+comment2.text=\r\n\ Check\ interaction\ from\ view\r\n\ @param\ pn\ The\ product\ number\ to\ be\ checked\r\n
+comment3.params=
+comment3.target=void\ doClear()
+comment3.text=\r\n\ Clear\ interaction\ from\ view\r\n
+numComments=4

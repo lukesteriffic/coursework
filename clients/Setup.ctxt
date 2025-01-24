@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Setup
+comment0.text=\r\n\ Repopulate\ the\ database\ with\ test\ data\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 3.0\ Derby\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=stmt\ url\ stm
+comment2.target=void\ query(java.sql.Statement,\ java.lang.String,\ java.lang.String)
+comment3.params=len\ s
+comment3.target=java.lang.String\ m(int,\ java.lang.String)
+numComments=4

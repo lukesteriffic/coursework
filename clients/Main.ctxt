@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Starts\ all\ the\ clients\ (user\ interface)\ \ as\ a\ single\ application.\r\n\ Good\ for\ testing\ the\ system\ using\ a\ single\ application.\r\n\ @author\ \ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 2.0\r\n\ @author\ \ Shine\ University\ of\ Brighton\r\n\ @version\ year-2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ begin()
+comment3.text=\r\n\ Starts\ the\ system\ (Non\ distributed)\r\n
+comment4.params=
+comment4.target=void\ toggleDarkMode()
+comment5.params=mlf
+comment5.target=void\ startCustomerGUI_MVC(middle.MiddleFactory)
+comment5.text=\r\n\ start\ the\ Customer\ client,\ -search\ product\r\n\ @param\ mlf\ A\ factory\ to\ create\ objects\ to\ access\ the\ stock\ list\r\n
+comment6.params=mlf
+comment6.target=void\ startCashierGUI_MVC(middle.MiddleFactory)
+comment6.text=\r\n\ start\ the\ cashier\ client\ -\ customer\ check\ stock,\ buy\ product\r\n\ @param\ mlf\ A\ factory\ to\ create\ objects\ to\ access\ the\ stock\ list\r\n
+comment7.params=mlf
+comment7.target=void\ startPackingGUI_MVC(middle.MiddleFactory)
+comment7.text=\r\n\ start\ the\ Packing\ client\ -\ for\ warehouse\ staff\ to\ pack\ the\ bought\ order\ for\ customer,\ one\ order\ at\ a\ time\r\n\ @param\ mlf\ A\ factory\ to\ create\ objects\ to\ access\ the\ stock\ list\r\n
+comment8.params=mlf
+comment8.target=void\ startBackDoorGUI_MVC(middle.MiddleFactory)
+comment8.text=\r\n\ start\ the\ BackDoor\ client\ -\ store\ staff\ to\ check\ and\ update\ stock\r\n\ @param\ mlf\ A\ factory\ to\ create\ objects\ to\ access\ the\ stock\ list\r\n
+numComments=9

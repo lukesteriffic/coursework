@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PosOnScrn
+comment0.text=\r\n\ Returns\ a\ position\ for\ the\ client\ window\ on\ the\ screen\r\n\ The\ clients\ are\ assumed\ to\ be\ all\ the\ same\ size\ 400x300\r\n\ @author\ Mike\ Smith\ University\ of\ Brighton\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ next()
+comment1.text=\r\n\ Calculate\ position\ of\ next\ window\r\n
+comment2.params=
+comment2.target=java.awt.Dimension\ getPos()
+comment2.text=\r\n\ return\ position\ for\ new\ window\ on\ screen\r\n\ \ slight\ misuse\ of\ the\ inbuilt\ Dimension\ class\r\n\ \ as\ used\ to\ hold\ an\ x,y\ co-ordinate\ pair\r\n\ @return\ position\ for\ new\ window\r\n
+numComments=3
